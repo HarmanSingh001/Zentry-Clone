@@ -48,8 +48,3 @@ A modern and visually engaging web app inspired by the award-winning Zentry webs
 3. **Advanced Animations**: Incorporate 3D animations or advanced scroll-triggered animations for a more dynamic experience.
 4. **Community Features**: Introduce a community or user submission section to encourage user interaction.
 5. **E-commerce Integration**: Add an e-commerce section for users to purchase items or subscriptions.
-
----
-
-<h4>🌐 Live Demo</h4>  
-Try the app here: [Live Demo](SOON DEPLOYED)
